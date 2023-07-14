@@ -1,5 +1,4 @@
 ### Hello, i'm hugodoss! 👋
 
-<dis style="display: inline_block"><br/>
-  <img align="center" alt="html5" scr="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</div>
+  <img align="center" alt="Zeus-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"><img align="center" alt="Zeus-Csharp" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
